@@ -2,7 +2,7 @@ package = "unsupgpu"
 version = "0.1-0"
 
 source = {
-   url = "git://github.com/viorik/unsupgpu",
+   url = "git://github.com/byronwwang/unsupgpu",
    tag = "master"
 }
 
